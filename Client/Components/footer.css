@@ -1,0 +1,79 @@
+.font-small.pt-4.mt-4.footer{
+    color:white !important;
+    background-color: #495057 !important;
+}
+
+.footer{
+    width: 100%;
+    min-height: 70px;       
+    color: whitesmoke;
+    bottom: 0  !important;
+    margin-top: 57vh !important;
+    /* font-family: "Raleway-Medium"; */
+    font-family: VarelaRound-Regular !important;
+    font-weight: bold;
+    position: relative;
+    width: 100%;
+    float: right;
+    margin-top: -250px;
+}
+
+.footer-top{
+    margin-top: auto;
+    min-height: 5vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.footer-links{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    /* justify-content: space-evenly; */
+    margin-left: 10%;
+}
+
+.icons-list{
+    /* padding-left: 1%; */
+    font-size: 25px !important;
+}
+
+.products-list{
+    padding-left: 10%;
+    text-align:center;
+}
+
+.space-footer{
+    padding-left: 10%;
+}
+
+.title-footer{
+    font-size: large;
+}
+
+.icon-footer:hover,.footerWordsLinks:hover {
+    color:#c39f93 !important;
+}
+
+.footerWordsLinks{
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    line-height: inherit;
+    white-space: nowrap;
+    padding-right: 10%;
+    text-align: right !important;
+    position: absolute !important;
+    right: -148% !important;
+    top: -23%;
+
+}
+
+.footerWords{
+    direction: rtl !important;
+    margin-right: 10% !important;
+}

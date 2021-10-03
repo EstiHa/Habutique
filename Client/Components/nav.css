@@ -1,0 +1,45 @@
+nav{
+    background-color: #43484d !important;
+    height: 8%;
+    color: #d6dadf !important;
+}
+
+.navbar-brand{
+    /* color: #d6dadf !important; */
+    color: #fff !important;
+    font-size: 110% !important;
+    padding-right: 20px !important;
+}
+
+.fas.fa-shopping-cart.hey{
+    color:#fff !important;
+    font-size: 190% !important;
+    margin-left: 20px !important;
+    z-index: 2 !important;
+    border-color: #c39f93 !important;
+    border: 20px #c39f93 !important;
+}
+
+.badge{
+    background-color: #c39f93;
+    color: #43484d !important;
+    font-size: 65% !important;
+    position: relative !important;
+    right: 10% !important;
+    /* bottom:% !important; */
+    bottom: 18px !important;
+    z-index: 1 !important;
+}
+
+#badge-cart{
+    color: #43484d !important;
+}
+
+.cartIcon{
+    margin-left: 1% !important;
+}
+
+.navbar-brand:hover{
+    color:#c39f93 !important;
+    font-size: 130% !important;
+}

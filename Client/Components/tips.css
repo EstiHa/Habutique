@@ -1,0 +1,54 @@
+/* .d-block.w-100{
+    margin-top: 200px !important;
+} */
+
+.d-block.w-100{
+  margin-top: 100px !important;
+  width: 60vh !important;
+  height:60vh !important;
+  text-align: center !important;
+  position: relative;
+  left: 15%;
+  
+}
+
+.h2-responsive, .p-responsive{
+  /* font-family: miriwin-webfont !important; */
+  color:#495057 !important;
+  
+}
+
+.carousel-indicators {
+  display: none;
+  }‏
+
+.h2-responsive{
+  font-family: miriwin-webfont !important;
+  position: relative;
+  left: 34%;
+}
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  /* top: 43%; */
+  bottom: 16%;
+}
+
+p.p-responsive {
+  position: relative !important;
+  left: 61%;
+  /* bottom: -1%; */
+  width: 50%;
+  font-size: 20px;
+}
+
+.z-depth-1{
+  /* position:absolute; */
+  margin-top: 10% !important;
+  height: 400px;
+}
+
+.carousel-cont{
+  max-height:100% !important;
+}
