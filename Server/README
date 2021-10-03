@@ -1,4 +1,4 @@
-Hi, welcome to my Hawbutique site's server side!
+## Hawbutique site's server side
 
 In order to run this project you should run the next commands:
     npm install
@@ -10,7 +10,6 @@ This project is the server side of my client side project - אתר הבוטיק-
 When start runnimg the first page that beggins to run is the 'index.js',
 there we create a socket that would listen to port 3080.
 
-This is the functionality of the pp
 When the user selects one of the categories, the GET function bring the items of this category from the mongoDB and show it on the screen.
 each product is in the fit collection in mongo - face/lips/eyes.
 The site has another channel of tips. This tips is also readen from mongoDB by GET function.
